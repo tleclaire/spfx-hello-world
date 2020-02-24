@@ -1,0 +1,12 @@
+{
+    "sourceDirectory": "src",
+    "sharePointSiteUrl": "https://tleclaire66.sharepoint.com/sites/Develop",
+    "workspaceRoot": "d:\\Projekte\\spfx-hello-world",
+    "publishWorkspaceOptions": {
+        "destinationFolder": "/",
+        "globPattern": "d:\\Projekte\\spfx-hello-worldd:\\Projekte\\spfx-hello-world\\src/d:\\Projekte\\spfx-hello-world\\src\\**\\*.*",
+        "localRoot": "d:\\Projekte\\spfx-hello-worldd:\\Projekte\\spfx-hello-world\\src"
+    },
+    "publishingScope": "SaveOnly",
+    "authenticationType": "Digest"
+}
